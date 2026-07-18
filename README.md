@@ -1,4 +1,4 @@
-# 🛡️ AI Compliance Copilot
+# 🛡️Compliance Sentinel
 
 An AI-powered contract analysis copilot that detects compliance risks, provides simplified explanations, and offers an executive summary and risk heatmap. It features a multi-agent debate system, an AI Fix Agent, and a full compliance dashboard.
 
