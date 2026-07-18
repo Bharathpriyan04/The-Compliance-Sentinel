@@ -1,0 +1,4 @@
+{
+  "name": "AI Compliance Copilot",
+  "description": "An AI-powered contract analysis copilot that detects compliance issues, provides simplified explanations, and offers an executive summary and risk heatmap. It includes features like an AI Fix Agent, RAG chat, and multi-agent collaboration."
+}
